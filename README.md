@@ -19,8 +19,8 @@ You can use it at any device such as mobile, desktop, laptop, etc. The smallest 
 
 I hope you enjoy it. If you have any problems or ideas feel free to contact me via:
 
-- 📱 Telegram [Telegram]: @mackseam
-- 📧 [Gmail] (efremovmaxim95@gmail.com)
+- 📱 [Telegram](@mackseam)
+- 📧 [Gmail](efremovmaxim95@gmail.com)
 
 ## 🚀 Build Setup
 
