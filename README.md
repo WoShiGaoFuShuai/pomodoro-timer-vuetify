@@ -1,7 +1,7 @@
 # pomodoro-vuetify
 
-![main-picture] (images/Main.jpg)
-![settings-picture] (images/Settings.jpg)
+![main-picture](images/Main.jpg)
+![settings-picture](images/Settings.jpg)
 
 ## 📋 Project Description
 
